@@ -1,3 +1,8 @@
-Githug Githug
-Is a hug, on the pages.
+<html>
+<head><title>Git Hug tutorial</title></head>
+<body>
+<h1>Githug Githug</h1>
+<strong>Is a hug, on the pages.</strong>
 Oh dear, this poem is good.
+</body>
+</html>
